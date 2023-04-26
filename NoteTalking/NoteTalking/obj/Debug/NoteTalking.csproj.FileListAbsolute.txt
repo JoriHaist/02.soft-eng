@@ -1,0 +1,10 @@
+F:\12A-Limberidis\Soft-Eng\NoteTalking\NoteTalking\bin\Debug\NoteTalking.exe.config
+F:\12A-Limberidis\Soft-Eng\NoteTalking\NoteTalking\bin\Debug\NoteTalking.exe
+F:\12A-Limberidis\Soft-Eng\NoteTalking\NoteTalking\bin\Debug\NoteTalking.pdb
+F:\12A-Limberidis\Soft-Eng\NoteTalking\NoteTalking\obj\Debug\NoteTalking.csprojAssemblyReference.cache
+F:\12A-Limberidis\Soft-Eng\NoteTalking\NoteTalking\obj\Debug\NoteTalking.Form1.resources
+F:\12A-Limberidis\Soft-Eng\NoteTalking\NoteTalking\obj\Debug\NoteTalking.Properties.Resources.resources
+F:\12A-Limberidis\Soft-Eng\NoteTalking\NoteTalking\obj\Debug\NoteTalking.csproj.GenerateResource.cache
+F:\12A-Limberidis\Soft-Eng\NoteTalking\NoteTalking\obj\Debug\NoteTalking.csproj.CoreCompileInputs.cache
+F:\12A-Limberidis\Soft-Eng\NoteTalking\NoteTalking\obj\Debug\NoteTalking.exe
+F:\12A-Limberidis\Soft-Eng\NoteTalking\NoteTalking\obj\Debug\NoteTalking.pdb
